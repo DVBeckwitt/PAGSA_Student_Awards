@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Graduate Student Awards
 
 This project now separates the LaTeX rendering logic from the award data so updates happen in one place per student.
@@ -36,3 +37,7 @@ Use any unique label for the first argument. Keeping the existing `sec:Name` sty
 
 - Run `pdflatex main.tex` twice so the hyperlinked index resolves correctly.
 - If `latexmk` is installed, `latexmk -pdf main.tex` also works.
+=======
+# PAGSA_Student_Awards
+Collection of all student awards for posterity
+>>>>>>> 924e1b2414351d8ecb9f70ff423c01ab96ccf539
