@@ -10,6 +10,7 @@ Maintain these files as the canonical award record. The newsletters are source m
 - Keep source provenance out of the visible award text unless it changes the meaning of the award.
 - Record newsletter provenance in `source-index.md`.
 - Use official award names consistently across the data.
+- The rendered PDF is generated from these files by `scripts/generate-document-derivatives.ps1`.
 
 ## Canonical Names
 
@@ -23,5 +24,6 @@ Maintain these files as the canonical award record. The newsletters are source m
 
 1. Update the matching student entry.
 2. Run `powershell -ExecutionPolicy Bypass -File scripts/audit_student_data.ps1`.
-3. If newsletter sourcing changed, regenerate `source-index.md`.
-4. Rebuild with `latexmk -pdf main.tex` or run `pdflatex` twice.
+3. Regenerate the derived TeX files with `powershell -ExecutionPolicy Bypass -File scripts/generate-document-derivatives.ps1`.
+4. If newsletter sourcing changed, regenerate `source-index.md`.
+5. Rebuild with `latexmk -pdf main.tex` or run `pdflatex` twice after regenerating the derived files.
