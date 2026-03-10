@@ -1,27 +1,60 @@
-<<<<<<< HEAD
 # Graduate Student Awards
 
-This project now separates the LaTeX rendering logic from the award data so updates happen in one place per student.
+This repository maintains a single LaTeX source of Physics and Astronomy graduate student awards and recognitions drawn from the department newsletters through the 2025 issue.
 
 ## Layout
 
-- `main.tex`: thin entrypoint that loads the document pieces.
-- `tex/preamble.tex`: packages and document-wide setup.
-- `tex/macros.tex`: rendering macros that build the linked student index and the student sections from the same declarations.
-- `tex/frontmatter.tex`: title, intro copy, and the index block.
-- `data/students/all.tex`: alphabetical include list for the student data files.
-- `data/students/*.tex`: the actual award records, grouped alphabetically.
-- `newsletters/`: reference newsletters used when adding or correcting awards.
+- `main.tex`: thin document entrypoint.
+- `tex/preamble.tex`: document-wide packages and setup.
+- `tex/macros.tex`: shared rendering macros.
+- `tex/frontmatter.tex`: title, scope note, and linked index.
+- `data/students/all.tex`: include list for the alphabetical student data files.
+- `data/students/*.tex`: maintained award records, grouped by surname.
+- `data/students/README.md`: contributor rules for editing the data.
+- `data/students/source-index.md`: tracked provenance index for newsletter issues mentioning each student.
+- `newsletters/`: source newsletters used for verification.
+- `scripts/build.ps1`: optional PowerShell build helper.
+- `scripts/audit_student_data.ps1`: consistency checks for ordering and legacy wording.
+- `scripts/build-source-index.ps1`: regenerates the provenance index from the data and extracted newsletter text.
 
-## Updating awards
+## Build
 
-- Add a student by opening the matching alphabetical file in `data/students/` and adding one `\studententry{...}{...}{...}` block.
-- Add or remove an award by editing the `itemize` list inside that student's block.
-- Remove a student by deleting that student's entire `\studententry` block.
-- Update the visible year range or intro text in `tex/frontmatter.tex`.
-- If the list grows enough to need another split, add a new file under `data/students/` and include it from `data/students/all.tex`.
+Preferred:
 
-Example block:
+```powershell
+latexmk -pdf main.tex
+```
+
+Fallback:
+
+```powershell
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+pdflatex -interaction=nonstopmode -halt-on-error main.tex
+```
+
+`scripts/build.ps1` is an optional wrapper for local PowerShell setups where TeX tooling is already initialized.
+
+## Updating Awards
+
+1. Edit the matching alphabetical file under `data/students/`.
+2. Keep entries sorted by surname inside each file.
+3. Keep award bullets concise: `Award Name (year)` with an optional short note on the next line.
+4. Use canonical award names from `data/students/README.md`.
+5. Regenerate the provenance index after meaningful source updates:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/build-source-index.ps1 > data/students/source-index.md
+```
+
+6. Run the audit script before rebuilding:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/audit_student_data.ps1
+```
+
+7. Rebuild with the `latexmk` or `pdflatex` commands above.
+
+## Entry Template
 
 ```tex
 \studententry{sec:ExampleStudent}{Example, Student}{
@@ -31,13 +64,4 @@ Example block:
 }
 ```
 
-Use any unique label for the first argument. Keeping the existing `sec:Name` style is the simplest convention.
-
-## Build
-
-- Run `pdflatex main.tex` twice so the hyperlinked index resolves correctly.
-- If `latexmk` is installed, `latexmk -pdf main.tex` also works.
-=======
-# PAGSA_Student_Awards
-Collection of all student awards for posterity
->>>>>>> 924e1b2414351d8ecb9f70ff423c01ab96ccf539
+Use a stable label in the first argument. Keeping the existing `sec:SurnameGiven` convention is the simplest approach.

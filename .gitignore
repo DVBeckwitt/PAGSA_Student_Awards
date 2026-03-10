@@ -2,6 +2,6 @@ main.aux
 main.log
 main.out
 main.synctex.gz
-*.txt
+tmp_DAP_*.txt
 *.docx
 newsletters/dap2024_docx/
