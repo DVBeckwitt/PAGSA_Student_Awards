@@ -6,3 +6,4 @@ tmp_DAP_*.txt
 *.docx
 newsletters/dap2024_docx/
 release/
+scripts/

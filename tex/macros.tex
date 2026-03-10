@@ -2,12 +2,17 @@
 \newcommand{\studentindexentries}{}
 \newcommand{\studentsections}{}
 
+\definecolor{studentrule}{gray}{0.72}
+\definecolor{studentfill}{gray}{0.93}
+
 \newcommand{\studentindexentry}[2]{%
   \par\noindent\hyperref[#1]{#2}%
 }
 
 \newcommand{\studentseparator}{%
   \par\medskip
+  \noindent{\color{studentrule}\rule{\textwidth}{0.6pt}}\par
+  \bigskip
 }
 
 \newcommand{\awardsource}[1]{%
@@ -18,9 +23,22 @@
   \par\noindent\href{#1}{\textbf{#2}}: #3\par
 }
 
+\newcommand{\studentheading}[1]{%
+  \par\bigskip
+  \noindent{\color{studentrule}\rule{\textwidth}{1pt}}\par
+  \vspace{0.45\baselineskip}
+  \noindent\colorbox{studentfill}{%
+    \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+      \strut\Large\bfseries #1\strut
+    }%
+  }\par
+  \vspace{0.35\baselineskip}
+}
+
 \long\def\studentsection#1#2#3{%
   \phantomsection
-  \subsection*{#2}\label{#1}
+  \label{#1}
+  \studentheading{#2}
   #3
   \studentseparator
 }
