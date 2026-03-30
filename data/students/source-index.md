@@ -6,13 +6,15 @@ Abhijeet, Abbi | DAP 2023, DAP 2024, DAP 2025
 Abousetit, Mohammed | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Ajibade, Abeeb | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Anderson, Matthew | DAP 2020
-Aurora, Vishvi | DAP 2023, DAP 2024, DAP 2025
+Aurora, Vishvi | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Babaian, Dallar | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Baishnab, Nirmal | DAP 2020
 Balthrop, Dillon | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Bansal, Diya | DAP 2024, DAP 2025
 Barron, John | DAP 2020, DAP 2021, DAP 2022, DAP 2023
+Bayless, Julianna | DAP 2023, DAP 2024, DAP 2025
 Beckwitt, David | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Berglund, Joseph | DAP 2022, DAP 2023, DAP 2024
 Bhattacharya, Payal | DAP 2020, DAP 2021, DAP 2022, DAP 2023
 Bhattarai, Bipin | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Bologa, Jenna | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
@@ -21,26 +23,34 @@ Bretana, Alex | DAP 2020, DAP 2021, DAP 2022, DAP 2023
 Burns, Randy | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Chakraborty, Amarnath | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Chiaro, Dylan | DAP 2021, DAP 2022, DAP 2023, DAP 2024
+Childers, Nicholas | DAP 2020, DAP 2021, DAP 2022, DAP 2023
+Conley, Elizabeth | DAP 2024
 Connor, Clayton | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Cook, Jacob | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Crownover, Marina | DAP 2024
 Cunningham, Quinn | DAP 2020, DAP 2021, DAP 2022
 Dalba, Dominic | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Davis, Shakeila | DAP 2023, DAP 2024, DAP 2025
 Daykin, Alex | DAP 2020, DAP 2021, DAP 2022, DAP 2023
 Diaz-Quiroz, Harold | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Dorhauer, Tony | DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Dygert, Matthew | DAP 2022, DAP 2023, DAP 2024
 Faison, Bradley | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Faridi, Ehsan | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Fayfar, Sean | DAP 2020, DAP 2021, DAP 2022, DAP 2023
-Francois, Jayden | Web only (official MU pages)
+Flagg, Donovan | DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Francois, Jayden | DAP 2022, DAP 2023, DAP 2024
 Gadtoula, Manoj | DAP 2023, DAP 2024
 Gamachchige, Dilan | DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Gates, Ellie | DAP 2023, DAP 2024, DAP 2025
 Gautam, Tapesh | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Ghobadi, Arash | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Ghosh, Pousali | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Guilliams, Aaron | DAP 2021, DAP 2022, DAP 2023
 Gunarathna, Ashan | DAP 2024, DAP 2025
 Guo, Jiasen | DAP 2020, DAP 2021, DAP 2022, DAP 2023
+Harper, Mathieux | DAP 2024, DAP 2025
+Higgins, Hayden | DAP 2022, DAP 2023, DAP 2024
 Horne, John | DAP 2024, DAP 2025
 Hroblak, Erica | DAP 2020
 Hurst, Travis | DAP 2021, DAP 2022
@@ -53,7 +63,9 @@ Joshi, Aparna | DAP 2024, DAP 2025
 Kariyapperuma, Indeewari | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Klue, Stephen | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Kuhn, Vicki (listed as Vicky Kuhn in DAP 2024) | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Lee, Brandon | DAP 2021, DAP 2022
 Leslie (Miles), John | DAP 2022, DAP 2023, DAP 2024
+Lindberg, Luke | DAP 2022, DAP 2023, DAP 2024
 Ling, Chenxiaoji (Jimmy) | DAP 2020, DAP 2022, DAP 2023
 Lisowski, Creighton | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Liyanage, Risi | DAP 2023, DAP 2024
@@ -62,9 +74,12 @@ Lu, Qiangsheng | DAP 2020, DAP 2022
 Luck, Kristopher | DAP 2024, DAP 2025
 Martin, Alec | DAP 2023, DAP 2024, DAP 2025
 Mazza, Alessandro R. | DAP 2021
+McMillen, James | DAP 2022, DAP 2023
 Mentzer, Charles | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Montalvo, Brianna | DAP 2024, DAP 2025
 Morales Medina, Pavel | DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Morrison, Ashley | DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Murray, Logan | DAP 2022, DAP 2023, DAP 2024
 Nance, Connor | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Nandi, Gourab | DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Nandi, Moudip | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
@@ -74,14 +89,19 @@ Pathak, Ishan | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Pickett, Alec | DAP 2020, DAP 2021
 Pittmann, Anna | DAP 2020
 Putatunda, Aditya | DAP 2020, DAP 2021
+Restuccia, Evan | DAP 2024, DAP 2025
 Sah, Avinash | DAP 2023, DAP 2024, DAP 2025
 Sahu, Pratik | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024
+Salamone, Allison | DAP 2022, DAP 2023
 Schaefer, Katie (Katherine) | DAP 2020, DAP 2022, DAP 2023, DAP 2024
 Sharma, Prativa | DAP 2024, DAP 2025
 Shepard, Lisa | DAP 2020, DAP 2021, DAP 2022
+Shotton, Justin | DAP 2021, DAP 2022, DAP 2023
 Sigdel, Deepesh | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Simpkins, Dayton | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Singh, Kishlay | DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Sivils, Drake | DAP 2020, DAP 2021, DAP 2022, DAP 2023
+Smith, Asher | DAP 2023, DAP 2024
 Smith, Ryan | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Spader, Marek | DAP 2023, DAP 2024, DAP 2025
 Sun, Bangzheng | DAP 2020, DAP 2022, DAP 2024, DAP 2025
@@ -90,9 +110,12 @@ Tiwari, Bibek | DAP 2023, DAP 2024, DAP 2025
 Torres, James | DAP 2020
 Tsumuraya, Mari | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Valleroy, Corey | DAP 2021, DAP 2022, DAP 2023, DAP 2024
-Vaninger, Mitch | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024
+Vaninger, Mitch | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Vogt, Cole | DAP 2022, DAP 2023
 Weaver, Dylan | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024
+West, Nathanial | DAP 2022
 Williams, Jared | DAP 2020, DAP 2021, DAP 2022, DAP 2023, DAP 2024, DAP 2025
+Woods, Carter | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Yang, Bo | DAP 2022, DAP 2023, DAP 2024, DAP 2025
 Yeassin, Rahgeer | DAP 2024, DAP 2025
 Yumnam, George | DAP 2020, DAP 2021, DAP 2023
