@@ -25,5 +25,5 @@ Maintain these files as the canonical award record. The newsletters are source m
 1. Update the matching student entry.
 2. Run `powershell -ExecutionPolicy Bypass -File scripts/audit_student_data.ps1`.
 3. Regenerate the derived TeX files with `powershell -ExecutionPolicy Bypass -File scripts/generate-document-derivatives.ps1`.
-4. If newsletter sourcing changed, regenerate `source-index.md`.
+4. If newsletter sourcing changed, run `powershell -ExecutionPolicy Bypass -File scripts/build-source-index.ps1` to regenerate `source-index.md` from the tracked newsletter PDFs.
 5. Rebuild with `latexmk -pdf main.tex` or run `pdflatex` twice after regenerating the derived files.
