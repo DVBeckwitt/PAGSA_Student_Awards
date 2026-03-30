@@ -9,6 +9,7 @@ Maintain these files as the canonical award record. The newsletters are source m
 - Prefer concise bullets in the form `Award Name (year)`.
 - Keep source provenance out of the visible award text unless it changes the meaning of the award.
 - Record newsletter provenance in `source-index.md`.
+- Use inline `\awardsource{...}` for older newsletter PDFs or non-newsletter pages that are not tracked by `source-index.md`.
 - Use official award names consistently across the data.
 - The rendered PDF is generated from these files by `scripts/generate-document-derivatives.ps1`.
 

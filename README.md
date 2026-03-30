@@ -1,6 +1,6 @@
 # Student Awards and Recognitions
 
-This repository tracks a LaTeX document of Physics and Astronomy student awards and recognitions at Mizzou, compiled from department newsletters and related department coverage from roughly 2019 through the 2025 newsletter cycle.
+This repository tracks a LaTeX document of Physics and Astronomy student awards and recognitions at Mizzou, compiled from department newsletters, recognition pages, and related coverage from roughly 2015 through early 2026.
 
 The authoritative data lives in `data/students/`. Newsletter PDFs in `newsletters/` are reference material for verification and provenance. The repository also tracks the current generated TeX outputs in `tex/` and the rendered PDF `PAGSA_Student_Awards.pdf`.
 
@@ -46,7 +46,8 @@ The authoritative data lives in `data/students/`. Newsletter PDFs in `newsletter
 ## Data Conventions
 
 - Prefer concise entries such as `Award Name (year)`.
-- Keep newsletter provenance in `data/students/source-index.md` unless a visible source link improves the rendered document.
+- Keep DAP newsletter provenance in `data/students/source-index.md`.
+- Use inline `\awardsource{...}` links for older newsletter PDFs or non-newsletter pages that are not covered by `source-index.md`.
 - Treat `newsletters/` as source material, not the primary editing surface.
 - Update `tex/award-reference.tex` when a recurring named department award or fund needs a short front-matter description.
 
